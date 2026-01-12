@@ -4,6 +4,10 @@ EEPROM saves are converted to SD‑card saves.
 All required libraries are included in the lib folder.
 Note: In some games, music may not work. (arduboy Tone or Playtone not compatible with esp32 and i don't think i can code it they are in lib folder just to not break the code)
 
+# How To Play?
+Copy the game files from "bin_output" directory to your SD card and install the bin files via Bruce Launcher APP (you can install launcher via M5Burner or web flash see more info https://github.com/bmorcelli/Launcher)
+
+
 # Keys
 - Arrow keys: movement
 - Z and X: Arduboy A and B buttons
