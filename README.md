@@ -17,3 +17,8 @@ Note: In some games, music may not work.
 
 +  Each game has its own license — check it before using it in your project.
 + you can freely play in the games in personal use only
+
+
+# dependency
++ M5GFX : MIT https://github.com/m5stack/M5GFX
++ M5Unified : MIT https://github.com/m5stack/M5Unified
