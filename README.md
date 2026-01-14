@@ -15,7 +15,8 @@ Copy the game files from "bin_output" directory to your SD card and install the 
 - +: volume up
 - –: volume down
 -  ] or [ key to set screen brightness
-
+- ENTER key To Pause the Game
+  
 # why EEPROM_TO_SD
 I created this library because I don’t use the default EEPROM implementation on the ESP32.
 On the ESP32, “EEPROM” is actually stored in flash memory, and whenever you flash a new game, all the saved data gets erased.
